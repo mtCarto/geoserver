@@ -1,0 +1,15 @@
+<layer>
+  <name>mosaic_sample</name>
+  <id>LayerInfoImpl-2209ef7e:16253da8ee5:-7fe4</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-2209ef7e:16253da8ee5:-7fe5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
